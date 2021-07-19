@@ -1,0 +1,11 @@
+INSERT INTO products (ID,TITLE,PRICE,RAITING)
+VALUES (2, 'product2', 1, 1);
+INSERT INTO products (ID,TITLE,PRICE,RAITING)
+VALUES (3, 'product3', 11.5, 2);
+INSERT INTO products (ID,TITLE,PRICE,RAITING)
+VALUES (4, 'product4', 12.5, 3);
+INSERT INTO products (ID,TITLE,PRICE,RAITING)
+VALUES (5, 'product5', 13.5, 4);
+
+
+
